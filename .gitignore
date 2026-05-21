@@ -11,6 +11,7 @@
 /.phpunit.cache
 /.vscode
 /.zed
+/AZURE_CREDENTIALS.md
 /auth.json
 /database/database.sqlite
 /node_modules
